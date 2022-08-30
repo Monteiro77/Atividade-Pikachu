@@ -127,8 +127,7 @@ footer {
         transform: translate(-50%, -60%);
     }
 }
-
-@media (max-width:640 px){
+@media (max-width:640px){
     .pikachu-image{
         width: 90vw;
     }
